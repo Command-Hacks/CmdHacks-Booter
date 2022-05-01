@@ -1,0 +1,1 @@
+Je moet de .zip uitpakken anders werkt de .exe niet!
